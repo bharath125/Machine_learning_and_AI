@@ -19,7 +19,12 @@ Week 3: Unsupervised Learning
   → PCA — dimensionality reduction
   → when you have data but no labels
 
-Week 4: Real Kaggle Competition
+Week 4: XGBoost
+  → Compare Decision tree, Random Forest, XGBoost
+  → XGBoost vs Random Forest difference
+  → ensemble methods
+
+Week 5: Real Kaggle Competition
   → Titanic submission — beat 83.2%
   → feature engineering
   → model comparison
